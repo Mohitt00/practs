@@ -10,7 +10,7 @@ function App() {
     <>
       <div>
       </div>
-      <h1>Edited from github</h1>
+      <h1>Edited from VsCode</h1>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
